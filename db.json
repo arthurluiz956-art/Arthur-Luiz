@@ -1,0 +1,11 @@
+[
+    {
+        "nome": "arthur",
+        "idade": 23,
+        "ativo": "sim",
+        "email": "arthurluiz956@gmail.com",
+        "telefone": "31986260769",
+        "cidade": "Belo Horizonte",
+        "profissao": "TI"
+    }
+]
