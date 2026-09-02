@@ -1,0 +1,17 @@
+# Sistema de Cadastro de Clientes
+
+Sistema desenvolvido em PHP para cadastro e consulta de clientes.
+
+# Tecnologias
+
+- PHP
+- HTML
+- CSS
+- JSON
+
+# Funcionalidades
+
+- Cadastro de clientes
+- Consulta de clientes
+- Pesquisa por nome
+- Armazenamento dos dados em JSON
